@@ -1,0 +1,23 @@
+{
+    "name": "stm32 FreeRTOS 9.0.0 library for stm32duino",
+    "description": "stm32 FreeRTTOS 9.0.0 library for stm32duino",
+    "keywords": "rtos, freertos, stm32",
+    "authors": [
+        {
+            "name": "Claudio Ambrosini",
+            "url": "http://github.com/straccio/Arduino_Due_FreeRTOS",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/straccio/Arduino_Due_FreeRTOS"
+    },
+    "version": "9.0.0",
+    "homepage": "http://github.com/straccio/Arduino_Due_FreeRTOS",
+    "frameworks": "Arduino",
+    "architectures":"stm32",
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}
